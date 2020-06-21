@@ -86,10 +86,6 @@ this virtual machines are very benifical for us
      also we get the safty of data 
     ----
  
-
-![images (4)](https://user-images.githubusercontent.com/65771120/85141903-288d2080-b265-11ea-84f4-214092738c91.jpeg)
-
-
  ## What is Virtual machine
  
  In virtual machine we need just any pc or laptop of not much high performance 
@@ -132,16 +128,6 @@ Platform as a Service
  this type is provide the platform or hosting for the app
  Software as a service is by netflix prime and Spotify
  
- >### Benifits
- 
-    developer can focus on development infrastructure of cloud
-    Developer can develop the program without any restriction
-    It developes without any efforts
-    SaaS has been efficiently managing application development phases in the cloud that includes testing
-    It is work without any conditions it just need internet connection
-     
-   ![iaas-paas-saas-diagram3-1638x1046](https://user-images.githubusercontent.com/65771120/85202612-3bffc080-b325-11ea-8ae5-39fdd1d814ad.png)
-
 -----------
 
 >### the Cloud deployment models 
@@ -291,7 +277,6 @@ In that server we get many applications can work on that one server
 
 -----------    
 
-![download](https://user-images.githubusercontent.com/65771120/85141969-48bcdf80-b265-11ea-84c7-e3f48ebe49d9.jpeg)
 
 ### scaling in cloud computing
      
@@ -306,4 +291,15 @@ In that server we get many applications can work on that one server
   
 ----------
 
- 
+>### Microsoft Azure
+  
+   Azure as a platform can be learned without knowing any programming at all. 
+   if you wish to deploy an application to Azure then you may need to write some configuration code or a deployment script
+   But for normal infrastructure management and other tasks you can use Azure
+   Microsoft Azure is the one of the best data storage on cloud platform
+   Microsoft Azure public cloud computing platform
+   AWS and Azure are the two top Companies in the cloud technology space 
+   both are very good at what they provide in different ways
+   Microsoft and Amazon ae best companies to provide a cloud platform
+
+  ![images](https://user-images.githubusercontent.com/65771120/85225972-653a5280-b3f2-11ea-9df0-f57d85497df1.png)
